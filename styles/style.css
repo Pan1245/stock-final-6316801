@@ -1,0 +1,19 @@
+.name-title {
+  color: rgb(255, 255, 152);
+  margin-top: 5%;
+  text-align: center;
+}
+
+.items-center {
+  text-align: center;
+  font-size: 120%;
+}
+
+.supplier-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  font-size: 150%;
+  text-decoration: underline;
+}
